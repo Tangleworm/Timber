@@ -1,0 +1,8 @@
+This is a music player app.
+
+We made one of the Now Playing layouts display the song length and duration
+and fixed a bug with track numbers displaying improperly.
+
+Files:
+app/src/main/res/layout/fragment_timber3.xml
+app/src/main/java/com/naman14/timber/dataloaders/AlbumSongLoader.java
